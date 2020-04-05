@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Wellcome to my blog !
+Welcome to my blog !
 
 The aim of this blog is to share things I learned the hard way and that do not deserve to be forgotten (specially by myself :))
 

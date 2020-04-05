@@ -47,4 +47,4 @@ The complete form should look like :
 
 To save the Live Template, click on the "Apply" button
 
-You can now create a new Junit test by typing "should" and then the InteliJ autocompletion should propose the new template
+You can now create a new Junit test by typing "should" and then the IntelliJ autocompletion should propose the new template
