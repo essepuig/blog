@@ -40,7 +40,7 @@ public void _should_(){
 
 Before saving, there is one more step: we need to configure the context where the Live Template can be applied. 
 
-To do so, click on the "Define" link at the bottom of the screen, and the choose "Declaration" under the "Java" list
+To do so, click on the "Define" link at the bottom of the screen, and then choose "Declaration" under the "Java" list
 
 The complete form should look like :
 ![IntelliJ settings filled]({{ site.url }}{{ site.baseurl }}/assets/images/2020-03-29-intellij-template-for-unit-testing/intelliJ_settings_liveTemplates_filled.png){: .full}
