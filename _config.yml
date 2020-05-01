@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ezequiel PUIG MERCADÉ"
   avatar : "/assets/images/profile/profile.png"
-  bio    : "Litte leprechaun that writes code for a living. Big Data enthusiast."
+  bio    : "Little leprechaun that writes code for a living. Big Data enthusiast."
   links:
     - label: "Blog"
       icon: "fas fa-fw fa-link"
